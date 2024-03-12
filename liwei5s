@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>5S for Chemical Manufacturing</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+    }
+    h1 {
+      text-align: center;
+    }
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      margin: 1rem 0;
+    }
+    .box {
+      width: 25%;
+      padding: 1rem;
+      border: 1px solid #ddd;
+      text-align: center;
+    }
+    .box h2 {
+      margin-bottom: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+  <h1>5S for a Safer, More Efficient Chemical Facility</h1>
+  <p>The 5S methodology is a workplace organization system that can significantly improve safety, efficiency, and organization in your chemical manufacturing facility.</p>
+
+  <div class="container">
+    <div class="box">
+      <h2>Sort (Seiri)</h2>
+      <p>Distinguish between necessary and unnecessary items. Discard, relocate, or sell anything not essential.</p>
+    </div>
+    <div class="box">
+      <h2>Set in Order (Seiton)</h2>
+      <p>Arrange remaining items in designated and clearly labeled locations for easy access and identification.</p>
+    </div>
+    <div class="box">
+      <h2>Shine (Seiso)</h2>
+      <p>Maintain a clean and organized workspace. Regular cleaning prevents spills, contamination, and accidents.</p>
+    </div>
+    <div class="box">
+      <h2>Standardize (Seiketsu)</h2>
+      <p>Establish consistent practices for the first three S's. Ensure everyone understands and follows the organization system.</p>
+    </div>
+    <div class="box">
+      <h2>Sustain (Shitsuke)</h2>
+      <p>Continuously improve and maintain good habits formed through the 5S process.</p>
+    </div>
+  </div>
+
+  <p>**Benefits of 5S in Chemical Manufacturing:**</p>
+  <ul>
+    <li>Improved Safety</li>
+    <li>Enhanced Efficiency</li>
+    <li>Reduced Costs</li>
+    <li>Boosted Morale</li>
+    <li>Improved Quality Control</li>
+  </ul>
+
+</body>
+</html>
